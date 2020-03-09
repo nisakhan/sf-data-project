@@ -1,6 +1,6 @@
 # sf-data-project
 
-TK
+Project by Rachel Oh, Jia Hui Tan, SeiMi Chu, and Nisa Khan
 
 ## Setup
 
